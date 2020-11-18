@@ -45,7 +45,7 @@ body {
   border-style: solid;
 }
 
-.accordion {
+.accordian {
   background-color: #eee;
   color: #444;
   cursor: pointer;
@@ -59,7 +59,7 @@ body {
 }
 
 .active,
-.accordion:hover {
+.accordian:hover {
   background-color: #ccc;
 }
 .panel {
